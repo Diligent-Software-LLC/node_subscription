@@ -26,13 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40737f1f-2679-4d75-8774-b7781520defc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/node_subscription.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/node_subscription.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/node_subscription.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/node_subscription.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_subscription.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/node_subscription.gemspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/node_subscription_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/node_subscription_test.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Changelog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588882073927</updated>
       <workItem from="1588882075075" duration="45000" />
-      <workItem from="1589405608719" duration="1715000" />
+      <workItem from="1589405608719" duration="2018000" />
     </task>
     <task id="LOCAL-00001" summary="Setup Complete&#10;&#10;Added version.rb. Added Gem Specification. Added README.md.">
       <created>1589406863897</created>
@@ -123,10 +118,17 @@
       <option name="project" value="LOCAL" />
       <updated>1589406863897</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Development Complete&#10;&#10;'require'd node_subscription_int, node_subscription_impl, and subscription_comp. Added file tests. Added dependencies.">
+      <created>1589411586917</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589411586917</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers>
       <YouTrack url="https://macbook-pro.local:8443">
-        <option name="defaultSearch" value="project: Subscription Subsystem:{ Node } Component: Library Sprints: 1 State: {Development}" />
+        <option name="defaultSearch" value="project: Subscription Subsystem:{ Node } Component: Library Sprints: 1 State: {Prepare Deployment}" />
         <username>admin</username>
       </YouTrack>
     </servers>
@@ -134,19 +136,31 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setup Complete&#10;&#10;Added version.rb. Added Gem Specification. Added README.md." />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup Complete&#10;&#10;Added version.rb. Added Gem Specification. Added README.md." />
+    <MESSAGE value="Development Complete&#10;&#10;'require'd node_subscription_int, node_subscription_impl, and subscription_comp. Added file tests. Added dependencies." />
+    <option name="LAST_COMMIT_MESSAGE" value="Development Complete&#10;&#10;'require'd node_subscription_int, node_subscription_impl, and subscription_comp. Added file tests. Added dependencies." />
   </component>
   <component name="WindowStateProjectService">
     <state x="432" y="175" key="#Servers" timestamp="1588882102113">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="432" y="175" key="#Servers/0.23.1680.975@0.23.1680.975" timestamp="1588882102113" />
-    <state x="121" y="62" width="1473" height="895" key="CommitChangelistDialog2" timestamp="1589406863539">
+    <state x="121" y="62" width="1473" height="895" key="CommitChangelistDialog2" timestamp="1589411811861">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="121" y="62" width="1473" height="895" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1589406863539" />
+    <state x="121" y="62" width="1473" height="895" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1589411811861" />
     <state width="1545" height="269" key="GridCell.Tab.0.bottom" timestamp="1589411461378">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
@@ -167,10 +181,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="390" y="214" width="816" height="550" key="find.popup/0.23.1680.975@0.23.1680.975" timestamp="1589405957673" />
-    <state x="509" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1589406427870">
+    <state x="509" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1589411648181">
       <screen x="0" y="23" width="1680" height="975" />
     </state>
-    <state x="509" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1589406427870" />
+    <state x="509" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1589411648181" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/node_subscription@NodeSubscriptionLibraryTest.rcov" NAME="NodeSubscriptionLibraryTest Coverage Results" MODIFIED="1589411440691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="node_subscription" />
