@@ -48,5 +48,7 @@ https://opencollective.com/subscription. One-time and recurring donations are
   spec.add_runtime_dependency 'node_subscription_int', '~> 0'
   spec.add_runtime_dependency 'node_subscription_impl', '~> 1'
   spec.add_runtime_dependency 'subscription_comp', '~> 0'
+  spec.add_runtime_dependency 'diagram_factory_int', '~> 1'
+  spec.add_runtime_dependency 'diagram_factory_impl', '~> 0'
 
 end

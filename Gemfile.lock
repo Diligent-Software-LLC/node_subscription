@@ -2,6 +2,8 @@ PATH
   remote: .
   specs:
     node_subscription (0.1.0)
+      diagram_factory_impl (~> 0)
+      diagram_factory_int (~> 1)
       node_subscription_impl (~> 1)
       node_subscription_int (~> 0)
       subscription_comp (~> 0)
@@ -42,6 +44,8 @@ GEM
       diagram_int (~> 0)
       linked_list_library (~> 0)
       node (~> 4)
+    diagram_factory_impl (0.1.0)
+    diagram_factory_int (1.0.0)
     diagram_impl (0.1.1)
     diagram_int (0.1.0)
     docile (1.3.2)
